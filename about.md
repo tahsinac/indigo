@@ -50,11 +50,11 @@ layout: page
 	<li><a href="https://github.com/tahsinac/vet-app">Vet App</a></li>
 	<li><a href="https://github.com/tahsinac/covid-misinfo-twitter">COVID-19 Misinformation On Twitter</a></li>
 	<li><a href="https://towardsdatascience.com/thinking-of-switching-careers-to-a-developer-d4c8f772ef83">Insight From Survey Responses</a></li>
-	<li><a href="https://github.com/tahsinac/identify-customer-segments/blob/master/Identify_Customer_Segments.ipynb"></a>Identifying Customer Segments</li>
+	<li><a href="https://github.com/tahsinac/identify-customer-segments/blob/master/Identify_Customer_Segments.ipynb">Identifying Customer Segments</a></li>
 	<li><a href="https://github.com/tahsinac/starbucks-offers/blob/master/Starbucks_Capstone_notebook.ipynb">Starbucks Offers</a></li>
-	<li><a href="https://github.com/tahsinac/disaster-response"></a>Disaster Response Pipeline</li>
-	<li><a href="https://tahsinac.medium.com/lyrics-are-a-form-of-literature-this-twitter-bot-will-help-you-see-it-a8f19cc1078e"></a>Lyric Bot</li>
-	<li><a href="https://github.com/tahsinac/image-classifier/blob/master/Image%20Classifier%20Project.ipynb"></a>Flower Image CLassifier</li>
+	<li><a href="https://github.com/tahsinac/disaster-response">Disaster Response Pipeline</a></li>
+	<li><a href="https://tahsinac.medium.com/lyrics-are-a-form-of-literature-this-twitter-bot-will-help-you-see-it-a8f19cc1078e">Lyric Bot</a></li>
+	<li><a href="https://github.com/tahsinac/image-classifier/blob/master/Image%20Classifier%20Project.ipynb">Flower Image CLassifier</a></li>
 </ul>
 
 <h2>Certificates</h2>
