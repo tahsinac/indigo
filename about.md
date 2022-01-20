@@ -12,21 +12,31 @@ layout: page
 <h2>Education</h2>
 <ul>
 	<li>
-		<p>Master Of Engineering (Software Engineering)<br>
+		<p>Master Of Engineering - Software Engineering<br>
 		University Of Calgary<br>
 		Calgary, AB<br>
 		May 2021 - May 2022</p>
 	</li>
 	<li>
-		<p>Master Of Engineering (Software Engineering)<br>
+		<p>Bachelor of Engineering (Hons.) - Chemical Engineering<br>
 		Monash University<br>
 		Kuala Lumpur, Malaysia<br>
 		Feb 2013 - Apr 2017</p>
 	</li>
 </ul>
 
-<h2>Skills</h2>
 
+<h2>Work Experience</h2>
+<ul>
+	<li>
+		<p>Data Analyst<br>
+		Calumino<br>
+		Sydney, Australia<br>
+		Feb 2019 - Jun 2020</p>
+	</li>
+</ul>
+
+<h2>Skills</h2>
 <ul class="skill-list">
 	<li>Programming Languages: Python, Java, C/C++, JavaScript, SQL, HTML, CSS</li>
 	<li>Frameworks: Spring Boot, React</li>
@@ -36,9 +46,8 @@ layout: page
 </ul>
 
 <h2>Projects</h2>
-
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/tahsinac/vet-app">Vet App</a></li>
+	<li><a href="https://github.com/tahsinac/covid-misinfo-twitter">COVID-19 Misinformation On Twitter</a></li>
+	<li><a href="https://towardsdatascience.com/thinking-of-switching-careers-to-a-developer-d4c8f772ef83">Insight From Survey Responses</a></li>
 </ul>
