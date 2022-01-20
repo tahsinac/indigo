@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: https://github.com/tahsinac/indigo/blob/gh-pages/assets/images/profile.jpg
+picture: assets/images/profile.jpg
 
 # your site color theme, false to light theme
 dark-theme: false
@@ -19,7 +19,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://tahsinac.github.io
+url: https://tahsinac.github.io/indigo
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
