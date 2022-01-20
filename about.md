@@ -54,7 +54,7 @@ layout: page
 	<li><a href="https://github.com/tahsinac/starbucks-offers/blob/master/Starbucks_Capstone_notebook.ipynb">Starbucks Offers</a></li>
 	<li><a href="https://github.com/tahsinac/disaster-response">Disaster Response Pipeline</a></li>
 	<li><a href="https://tahsinac.medium.com/lyrics-are-a-form-of-literature-this-twitter-bot-will-help-you-see-it-a8f19cc1078e">Lyric Bot</a></li>
-	<li><a href="https://github.com/tahsinac/image-classifier/blob/master/Image%20Classifier%20Project.ipynb">Flower Image CLassifier</a></li>
+	<li><a href="https://github.com/tahsinac/image-classifier/blob/master/Image%20Classifier%20Project.ipynb">Flower Image Classifier</a></li>
 </ul>
 
 <h2>Certificates</h2>
