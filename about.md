@@ -4,19 +4,10 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello, I'm Tahsin, a software engineer currently based in Calgary, AB.</p>
+<p>I'm currently pursuing a Master's degree in Software engineering where I'm learning how to make good software and building cool things.</p>
+<p>Having lived/worked/studied in Saudi Arabia, Bangladesh, Malaysia, Australia & Canada, I enjoy being in the midst of diverse cultures and perspectives.</p>
+<p>I listen to <a href="https://open.spotify.com/playlist/37i9dQZF1Epq6nHyI9Xsja?si=ce5bbc0aa7ec45c3&nd=1">a lot of music</a>, <a href="https://www.linkedin.com/in/tahsinac/">love good comedy</a> and enjoy <a href="https://app.thestorygraph.com/profile/tahsinac">reading books</a> about philosophy, economy, science and psychology.</p>
 
 <h2>Skills</h2>
 
