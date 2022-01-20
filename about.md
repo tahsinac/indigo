@@ -50,4 +50,21 @@ layout: page
 	<li><a href="https://github.com/tahsinac/vet-app">Vet App</a></li>
 	<li><a href="https://github.com/tahsinac/covid-misinfo-twitter">COVID-19 Misinformation On Twitter</a></li>
 	<li><a href="https://towardsdatascience.com/thinking-of-switching-careers-to-a-developer-d4c8f772ef83">Insight From Survey Responses</a></li>
+	<li><a href="https://github.com/tahsinac/identify-customer-segments/blob/master/Identify_Customer_Segments.ipynb"></a>Identifying Customer Segments</li>
+	<li><a href="https://github.com/tahsinac/starbucks-offers/blob/master/Starbucks_Capstone_notebook.ipynb">Starbucks Offers</a></li>
+	<li><a href="https://github.com/tahsinac/disaster-response"></a>Disaster Response Pipeline</li>
+	<li><a href="https://tahsinac.medium.com/lyrics-are-a-form-of-literature-this-twitter-bot-will-help-you-see-it-a8f19cc1078e"></a>Lyric Bot</li>
+	<li><a href="https://github.com/tahsinac/image-classifier/blob/master/Image%20Classifier%20Project.ipynb"></a>Flower Image CLassifier</li>
 </ul>
+
+<h2>Certificates</h2>
+<ul>
+	<li>Data Scientist Nanodegree - Udacity</li>
+	<li>Ultimate AWS Certified Cloud Practitioner - Udemy</li>
+	<li>Fundamentals Of Scalable Data Science - Coursera</li>
+	<li>Structuring Machine Learning Projects - Coursera</li>
+	<li>Neural Networks and Deep Learning - Coursera</li>
+	<li>Applied AI with DeepLearning - Coursera</li>
+	<li>Responsive Web Design - freecodecamp</li>
+</ul>
+
