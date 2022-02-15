@@ -6,6 +6,7 @@ layout: page
 
 <p>Hello! I'm Tahsin, a software engineer currently based in Calgary, AB.</p>
 <p>I'm currently pursuing a Master's degree in Software engineering where I'm learning how to make good software and building cool things.</p>
+<p>I'm fascinated by the capabilities of Machine Learning and want to work on software built around it.</p>
 <p>Having lived/worked/studied in Saudi Arabia, Bangladesh, Malaysia, Australia & Canada, I enjoy being in the midst of diverse cultures and perspectives.</p>
 <p>I listen to <a href="https://open.spotify.com/playlist/37i9dQZF1Epq6nHyI9Xsja?si=ce5bbc0aa7ec45c3&nd=1">a lot of music</a>, love <a href="https://www.linkedin.com/in/tahsinac/">good comedy</a> and enjoy <a href="https://app.thestorygraph.com/profile/tahsinac">reading books</a> about philosophy, economy, science and psychology.</p>
 
