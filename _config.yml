@@ -3,7 +3,7 @@ name: Tahsin Ashraf
 bio: Hello! I'm Tahsin, a machine learning engineer currently based in Toronto, ON. 
 
 # twitter summary info
-description: Tahsin Ashraf is a machine learning engineer currently based in Calgary, AB.
+description: Tahsin Ashraf is a machine learning engineer currently based in Toronto, ON.
 
 # if it's an external image, update below for true
 # better with square images
@@ -15,7 +15,7 @@ dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://drive.google.com/file/d/12X-bZ2P59aogLHTD57I4xb1yu7BwQYNT/view?usp=sharing
 

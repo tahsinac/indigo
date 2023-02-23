@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Hello! I'm Tahsin, a machine learning engineer currently based in Toronto, ON.</p>
-<p>I'm currently a Machine Learning Engineer in Manulife's Advanced Analytics team, where my role focuses on MLOps and the solutions I work on help the company get actionable insights.</p>
+<p>I'm currently a Machine Learning Engineer in Manulife's Advanced Analytics team, where my my primary focus is on MLOps, which involves creating and deploying machine learning models in production. The solutions that I develop provide actionable insights that drive success across multiple corporate functions, including Human Resources, Procurement, IT Operations, and Strategic Portfolio Optimization.</p>
 <p>I'm fascinated by the technologies in the intersection of Artificial Intelligence and Software Engineering.</p>
 <p>Having lived/worked/studied in Saudi Arabia, Bangladesh, Malaysia, Australia & two provinces here in Canada, I enjoy being in the midst of diverse cultures and perspectives.</p>
 <p>I listen to <a href="https://open.spotify.com/playlist/37i9dQZF1Epq6nHyI9Xsja?si=ce5bbc0aa7ec45c3&nd=1">a lot of music</a>, love <a href="https://www.linkedin.com/in/tahsinac/">good comedy</a> and enjoy <a href="https://app.thestorygraph.com/profile/tahsinac">reading books</a> about philosophy, economy, science and psychology.</p>
@@ -19,9 +19,15 @@ layout: page
 		Apr 2022 - Present</p>
 	</li>
 	<li>
+		<p>Machine Learning Engineer Intern<br>
+		FLYHT<br>
+		Calgary, AB<br>
+		Jan 2022 - Apr 2022</p>
+	</li>
+	<li>
 		<p>Data Analyst<br>
 		Calumino<br>
-		Sydney, Australia<br>
+		Sydney, NSW, Australia<br>
 		Feb 2019 - Jun 2020</p>
 	</li>
 </ul>
@@ -31,12 +37,12 @@ layout: page
 	<li>
 		<p>Master Of Engineering - Software Engineering<br>
 		University Of Calgary<br>
-		May 2021 - May 2022</p>
+		May 2022</p>
 	</li>
 	<li>
 		<p>Bachelor of Engineering (Hons.) - Chemical Engineering<br>
 		Monash University<br>
-		Feb 2013 - Apr 2017</p>
+		Apr 2017</p>
 	</li>
 </ul>
 
