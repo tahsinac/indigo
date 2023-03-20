@@ -56,10 +56,8 @@ layout: page
 </ul>
 
 <h2>Personal Projects</h2>
-<ul>
-	<li><a href="https://github.com/tahsinac/vet-app">Vet App</a></li>
-	I'm always tinkering with new tools and techologies and building stuff as pet projects for fun or just to learn how things work. Checkout my <a href="https://github.com/tahsinac">github</a> for more information.
-</ul>
+<p>I'm always tinkering with new tools and techologies and building stuff as pet projects for fun or just to learn how things work. Checkout my <a href="https://github.com/tahsinac">github</a> for more information.</p>
+
 
 <h2>Certificates</h2>
 <ul>
