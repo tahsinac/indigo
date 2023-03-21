@@ -51,7 +51,7 @@ layout: page
 	<li>Programming Languages: Python, Java, C/C++, JavaScript, SQL, HTML, CSS, R </li>
 	<li>Frameworks: Spring Boot, React</li>
 	<li>Technologies: PySpark, TensorFlow, Keras, PyTorch, AWS, Azure, Neo4j</li>
-	<li>Tools: Git, VSCode, IntelliJ, Jupyter, Databricks, Google Colab, Eclipse, Maven</li>
+	<li>Tools: Git, Jenkins, VSCode, IntelliJ, Jupyter, Databricks, Google Colab, Eclipse, Maven</li>
 	<li>Others: Object-Oriented Programming, Agile, CRISP-DM, Unit Testing</li>
 </ul>
 
